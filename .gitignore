@@ -1,3 +1,5 @@
 .mypy_cache
 .env
 llsenv1
+
+**/__pycache__

@@ -1,5 +1,0 @@
-python-dotenv
-requests
-langchain
-langchain_core
-langchain_openai
